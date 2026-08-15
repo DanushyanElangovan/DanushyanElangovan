@@ -34,7 +34,12 @@ I'm a Software Engineering student based in Wattala, Sri Lanka, with a growing i
 
 ---
 
+## 📊 GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=DanushyanElangovan&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanushyanElangovan&layout=compact&theme=radical&hide_border=true" width="48%" />
+
+---
 
 <div align="center">
 
